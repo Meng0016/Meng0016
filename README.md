@@ -17,3 +17,8 @@
 
 ### 技术栈
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
+![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
+
