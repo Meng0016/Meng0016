@@ -1,7 +1,7 @@
 ## 一位涉世未深的小孩儿—长安归故里🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 ### 自我介绍
-
+<div><img align="right" alt="GIF" src="https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Favatar-shenli.png" width="300" height="100%" /></div>
 
 
 - 大家好，我是ChangAn，来自河北唐山
